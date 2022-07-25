@@ -1,14 +1,14 @@
-# homepage
 # Yonghao Xie
-## Master's degree student, graduating in June 2023
+### Master's degree student, graduating in June 2023
 
-*School of Mechanical and Electrical Engineering, Northeast Forestry University*
+*School of Mechanical and Electrical Engineering, Northeast Forestry University* 
 *Phone : (+86) 18296721304*
 *Email : xieyong_hao@163.com*
-EDUCATION:
 
-Nanchang Hangkong University(Sep. 2016 – Jun. 2020), Bachelor of Automaton, School of Information Engineering, Nanchang, China
-GPA: 3.4/4.0 (top 15%)
+## EDUCATION:
+
+### **Nanchang Hangkong University(Sep. 2016 – Jun. 2020), Bachelor of Automaton, School of Information Engineering, Nanchang, China**
+*GPA:* 3.4/4.0 (top 15%)
 Honors: National Inspirational Scholarship; First-class Scholarship; Second-class Scholarship; Yuntayli Scholarship; Hong Rui Xing Scholarship; The Third Best Student of the University; H Prize of American Mathematical Modelling Competition; National second prize in the electromagnetic two-vehicle category of the "NXP Cup” National Student Intelligent Vehicle Competition; National third prize in the outdoor electromagnetic category of the “NXP Cup” National Student Intelligent Vehicle Competition; Third Prize in Computer Work Competition of Jiangxi Province.
 Northeast Forestry University(Sep. 2020 – Jun. 2023), Master of Control Science and Engineering, School of Electrical and Mechanical Engineering,Harbin, China
 GPA: 3.5/4.0
