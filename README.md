@@ -2,9 +2,9 @@
 # Yonghao Xie
 ## Master's degree student, graduating in June 2023
 
-School of Mechanical and Electrical Engineering, Northeast Forestry University
-Phone : (+86) 18296721304
-Email : xieyong_hao@163.com
+*School of Mechanical and Electrical Engineering, Northeast Forestry University*
+*Phone : (+86) 18296721304*
+*Email : xieyong_hao@163.com*
 EDUCATION:
 
 Nanchang Hangkong University(Sep. 2016 – Jun. 2020), Bachelor of Automaton, School of Information Engineering, Nanchang, China
