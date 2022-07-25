@@ -9,7 +9,7 @@
 
 ## **EDUCATION:**
 
-#### **Nanchang Hangkong University(Sep. 2016 – Jun. 2020), Bachelor of Automaton, School of Information Engineering, Nanchang, China**
+#### **Nanchang Hangkong University (Sep. 2016 – Jun. 2020), Bachelor of Automaton, School of Information Engineering, Nanchang, China**
 
 **GPA:** 3.4/4.0 (top 15%)
 
@@ -29,7 +29,7 @@
 
 - Third Prize in Computer Work Competition of Jiangxi Province.
 
-#### **Northeast Forestry University(Sep. 2020 – Jun. 2023), Master of Control Science and Engineering, School of Electrical and Mechanical Engineering,Harbin, China**
+#### **Northeast Forestry University (Sep. 2020 – Jun. 2023), Master of Control Science and Engineering, School of Electrical and Mechanical Engineering, Harbin, China**
 
 **GPA:** 3.5/4.0
 
@@ -47,12 +47,12 @@
 
 ## **RESEARCH EXPERIENCE:**
 
-#### **Participant, China "Internet+" Student Innovation and Entrepreneurship Pro(Mar. 2017 – Aug. 2017), Tiangong Enlightenment Project Supervised by Prof. Wang Qing at Nanchang Hangkong University,Nanchang, China**
+#### **Participant, China "Internet+" Student Innovation and Entrepreneurship Pro (Mar. 2017 – Aug. 2017), Tiangong Enlightenment Project Supervised by Prof. Wang Qing at Nanchang Hangkong University, Nanchang, China**
 - Established a community serving aviation science that targets young people so that they have a more precise understanding of aviation knowledge, science, and technology innovation;
 
 - Went to primary and secondary school to teach about aviation science and invited young people into our school's science base to observe and learn. After seeing the aircraft models, young people aroused intense interest in aviation.
 
-#### **Team Leader, School-level project(Oct. 2017 – Jun. 2018), Project “Infrared Auto-sensing Retractable Intelligent Desk Lamp” Supervised by Prof. Zhou Jiehua,Nanchang, China**
+#### **Team Leader, School-level project (Oct. 2017 – Jun. 2018), Project “Infrared Auto-sensing Retractable Intelligent Desk Lamp” Supervised by Prof. Zhou Jiehua, Nanchang, China**
 
 - Used a microcontroller to create an intelligent table lamp that adapts to the human body and light, used infrared sensors to control light and extinction, drive the motor and achieve a certain degree of automatic retraction to achieve the purpose of saving storage space;
 
@@ -60,14 +60,14 @@
 
 - When the light is bright, the lamp does not work when the human body or animals approach the lamp. When the light is weak, the light intensity is automatically adjusted according to the proximity of people (infrared intensity). Even though the distance from the desktop is automatically adjusted (the more robust the infrared, the closer to the desktop), retract the storage box and turn off the light when people are far away.
 
-#### **Key Member, Smart car project(Dec. 2017 – Aug. 2018), Project “Intelligent two-vehicle automatic identification and car-participation study” Supervised by Prof. Wu Kaizhi,Nanchang, China**
+#### **Key Member, Smart car project (Dec. 2017 – Aug. 2018), Project “Intelligent two-vehicle automatic identification and car-participation study” Supervised by Prof. Wu Kaizhi, Nanchang, China**
 - Made two intelligent vehicles with automatic road recognition to recognize the right roads automatically, find the optimal path, and accomplish vehicle recognition and safe meeting on narrow streets;
 
 - We made the essential car body, including the drive motor, steering servo, and other cart components; Then, we made the cart control and sensing unit, such as the K60 controller, driver circuit, camera recognition module, ultrasonic sensor module, Bluetooth signal transmission module. Finally, it would be divided into master and slave car debugging;
 
 - The master vehicle signal and the slave vehicle signal were shared in real-time. Both the master and slave vehicles could recognize the correct road and choose the shortest path to travel. When the streets are slightly wider than the width of the two cars meet, they can complete the set road travel time in a safe form without collision conditions.
 
-#### **Team Leader, School-level project(Sep. 2018 – Jun. 2019), Project “Fire fighting and rescue robot based on embedded structure and Internet of Things” Supervised by Prof Wang Changkun,Nanchang, China**
+#### **Team Leader, School-level project (Sep. 2018 – Jun. 2019), Project “Fire fighting and rescue robot based on embedded structure and Internet of Things” Supervised by Prof Wang Changkun, Nanchang, China**
 
 - The primary purpose is to design a robot with STM32 to identify the source of fire and extend the robot arm near the fire source to achieve the process of fire extinguishing, meanwhile, to transmit real-time information to the host computer to monitor;
 
@@ -75,7 +75,7 @@
 
 - The robot rotates to monitor the fire source when there is no fire. When the fire source was found, the drive motor approached the fire source and judged the distance from the fire source, stopped according to the program and the space set by the robot arm, drove the robot arm closer, completed the fire extinguishing action, and uploaded this process data to the upper computer for monitoring.
 
-#### **Team Leader, Research project(Dec. 2018 – Jun. 2019), RGV Path planning Study Supervised by Prof. Wang Changkun at Nanchang Hangkong University,Nanchang, China**
+#### **Team Leader, Research project (Dec. 2018 – Jun. 2019), RGV Path planning Study Supervised by Prof. Wang Changkun at Nanchang Hangkong University, Nanchang, China**
 
 - For an industrial product that requires the participation of multiple types of RGVs in its production, an RGV scheduling optimization model maximizes the number of industrial products produced by the shop within a specified time;
 
@@ -83,7 +83,7 @@
 
 - Simulations were performed using MATLAB software. The data were substituted into the model for calculation, and the results were compared with the existing model. The results showed that the improved mathematical model created has a more significant improvement in efficiency than the original model.
 
-#### **Team Leader, Research project(Mar. 2019 – Jun. 2019), Siemens Smart Manufacturing Challenge Supervised by Prof. Wang Changkun at Nanchang Hangkong University,Nanchang, China**
+#### **Team Leader, Research project(Mar. 2019 – Jun. 2019), Siemens Smart Manufacturing Challenge Supervised by Prof. Wang Changkun at Nanchang Hangkong University, Nanchang, China**
 
 - We designed a logistics system with the function of indoor and outdoor automatic navigation. The logistics trolley can automatically communicate with the elevator and automatic door and implement control; the trolley must transport materials accurately;
 
@@ -91,7 +91,7 @@
 
 - The system navigation function was accurate, communication information was shared in real-time, and trolley handling material accuracy and efficiency were high.
 
-#### **Key Member, Research project(Dec. 2020 – Present), Research on inertial sensor control methods and technologies (National Key R&D Program) Supervised by Prof Zhang Jiawei,Harbin, China**
+#### **Key Member, Research project(Dec. 2020 – Present), Research on inertial sensor control methods and technologies (National Key R&D Program) Supervised by Prof Zhang Jiawei, Harbin, China**
 
 - The research content is to establish the transfer function and noise equivalent model of each critical unit of the AC feedback actuation system, determine the noise source of the AC feedback actuation system, complete the noise index allocation according to the project requirement index, and establish the theoretical analysis and experimental research on the noise of AC feedback actuator. After forming the theoretical model, the noise in the time-sharing control mode and frequency-sharing control mode will be improved through hardware structure and optimization algorithm;
 
@@ -101,7 +101,7 @@
 
 ## **LEADERSHIP/TEAMWORK EXPERIENCE:**
 
-#### **Centre for Science and Innovation, Nanchang Hangkong University(Sep. 2017 – Jun. 2018), Laboratory Assistant,Nanchang, China**
+#### **Centre for Science and Innovation, Nanchang Hangkong University(Sep. 2017 – Jun. 2018), Laboratory Assistant, Nanchang, China**
 
 - Organized visits to the laboratory for new students and passed on the experience gain in the laboratory to the next class.
 
@@ -109,7 +109,7 @@
 
 - Managed laboratory safety and order issues, and responsible for component procurement.
 
-#### **Student Union, School of Mechanical and Electrical Engineering(Sep. 2020 – Jun. 2021), Director of Science and Innovation Center,Harbin, China**
+#### **Student Union, School of Mechanical and Electrical Engineering(Sep. 2020 – Jun. 2021), Director of Science and Innovation Center, Harbin, China**
 
 - Responsible for postgraduate level competition news release.
 
@@ -119,13 +119,13 @@
 
 ## **INTERNSHIP EXPERIENCE:**
 
-#### **TeLLHOW Technology Co.(Jun. 2017 – Sep. 2017), Test engineer in the test department,Nanchang, China**
+#### **TeLLHOW Technology Co.(Jun. 2017 – Sep. 2017), Test engineer in the test department, Nanchang, China**
 
 - Responsible for testing of small silent power supply voltage regulator circuit and feeding back problems to the design department.
 
 - Checked the component list and completed the data recording work of filling in the relevant test documents.
 
-#### **Qinghui Chuangtong Technology Co.(Jun. 2020 – Sep. 2020), Hardware engineer in hardware design d epartment,Beijing, China**
+#### **Qinghui Chuangtong Technology Co.(Jun. 2020 – Sep. 2020), Hardware engineer in hardware design d epartment, Beijing, China**
 
 - Designed the circuit board for Bluetooth burning under multi-channel (40 channels) mine, installed the circuit board with the designed die, burned the Bluetooth firmware program in the burner (STM32) to each Bluetooth module in turn, and feet the burning result to the upper computer. Docking with the protocol of the upper computer program, if it failed, feedback the failure signal so that the burner re-burned this Bluetooth until the program was downloaded entirely into the Bluetooth chip.
 
