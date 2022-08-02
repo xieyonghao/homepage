@@ -5,7 +5,7 @@
 
 *Phone : (+86) 18296721304*
 
-*Email : xieyong_hao@163.com*
+*Email : 2020111721@nefu.edu.cn*
 
 ## **EDUCATION:**
 
