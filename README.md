@@ -140,7 +140,7 @@
 ## **PUBLICATIONS:**
 
 - Zhang J, Xie Y, Huang J, et al. Design and simulation of reference voltage sources circuit in lasers [J]. Microwave and Optical Technology Letters. (Supervisor as first author)
-- Jiawei Zhang; Yonghao Xie; Mingze Yuan，et al. A Self-adjusting Parametric Model for Attenuation Characteristics of WUSN Signal. (Under Review, Supervisor as first author)
+- Jiawei Zhang, Yonghao Xie, Mingze Yuan, et al. A Self-adjusting Parametric Model for Attenuation Characteristics of WUSN Signal. (Under Review, Supervisor as first author)
 - 张佳薇,谈志强,李明宝,彭博,谢永浩,郑岳涵. 气体流量对石英增强型光声光谱检测精度的影响[J].科学技术与工程,2022,22(03):1048-1053.
- 
+- 张佳薇,牟大伟,黄建平,莫冲,谢永浩,潘东琦. 一种便于拆装的加速度计壳体[P]. 黑龙江省：CN214503663U,2021-10-26.
  
