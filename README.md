@@ -91,7 +91,7 @@
 
 - The system navigation function was accurate, communication information was shared in real-time, and trolley handling material accuracy and efficiency were high.
 
-#### **Key Member, Research project(Dec. 2020 – Present), Research on inertial sensor control methods and technologies (National Key R&D Program) Supervised by Prof Zhang Jiawei, Harbin, China**
+#### **Key Member, Research project(Dec. 2020 – Present), Research on inertial sensor control methods and technologies (National Key research and development Program) Supervised by Prof Zhang Jiawei, Harbin, China**
 
 - The research content is to establish the transfer function and noise equivalent model of each critical unit of the AC feedback actuation system, determine the noise source of the AC feedback actuation system, complete the noise index allocation according to the project requirement index, and establish the theoretical analysis and experimental research on the noise of AC feedback actuator. After forming the theoretical model, the noise in the time-sharing control mode and frequency-sharing control mode will be improved through hardware structure and optimization algorithm;
 
