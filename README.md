@@ -130,4 +130,4 @@
 
 - Zhang J, Xie Y, Huang J, et al. Design and simulation of reference voltage sources circuit in lasers [J]. Microwave and Optical Technology Letters. (Supervisor as first author)
 - J. Zhang, Y. Xie, M. Yuan, M. Li. A Self-adjusting Parametric Model for Attenuation Characteristics of WUSN Signal. (Under Review, Supervisor as first author)
-- F. Zhao, J. Zhang, N. Zhang, Z. Tan, Y. Xie, S. Zhang, Z. Han, M. Li. (2022). DETECTION OF CUCURBITS'FRUITS BASED ON DEEP LEARNING. INMATEH-Agricultural Engineering, 66(1).
+- F. Zhao, J. Zhang, N. Zhang, Z. Tan, Y. Xie, S. Zhang, Z. Han, M. Li. (2022). Detection of cucurbits' fruits based on deep learning. INMATEH-Agricultural Engineering, 66(1).
