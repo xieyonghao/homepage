@@ -35,6 +35,8 @@
 
 **Honors:** 
 
+- National Scholarship
+
 - First-class Scholarship; 
 
 - Third-class Scholarship; 
@@ -46,19 +48,6 @@
 - Third prize of the 15th Math China Mathematical Modeling Network Challenge.
 
 ## **RESEARCH EXPERIENCE:**
-
-#### **Participant, China "Internet+" Student Innovation and Entrepreneurship Pro (Mar. 2017 – Aug. 2017), Tiangong Enlightenment Project Supervised by Prof. Wang Qing at Nanchang Hangkong University, Nanchang, China**
-- Established a community serving aviation science that targets young people so that they have a more precise understanding of aviation knowledge, science, and technology innovation;
-
-- Went to primary and secondary school to teach about aviation science and invited young people into our school's science base to observe and learn. After seeing the aircraft models, young people aroused intense interest in aviation.
-
-#### **Team Leader, School-level project (Oct. 2017 – Jun. 2018), Project “Infrared Auto-sensing Retractable Intelligent Desk Lamp” Supervised by Prof. Zhou Jiehua, Nanchang, China**
-
-- Used a microcontroller to create an intelligent table lamp that adapts to the human body and light, used infrared sensors to control light and extinction, drive the motor and achieve a certain degree of automatic retraction to achieve the purpose of saving storage space;
-
-- We used the AT89C52 microcontroller to make the minimum system, then used an infrared sensor to build an infrared sensor module, and took a light sensor to make the light sensor module. After that, we used servo and motor to build the hardware structure of the table lamp telescopic arm. These modules and microcontrollers form a sensing and control system finally debugged;
-
-- When the light is bright, the lamp does not work when the human body or animals approach the lamp. When the light is weak, the light intensity is automatically adjusted according to the proximity of people (infrared intensity). Even though the distance from the desktop is automatically adjusted (the more robust the infrared, the closer to the desktop), retract the storage box and turn off the light when people are far away.
 
 #### **Key Member, Smart car project (Dec. 2017 – Aug. 2018), Project “Intelligent two-vehicle automatic identification and car-participation study” Supervised by Prof. Wu Kaizhi, Nanchang, China**
 - Made two intelligent vehicles with automatic road recognition to recognize the right roads automatically, find the optimal path, and accomplish vehicle recognition and safe meeting on narrow streets;
@@ -142,6 +131,3 @@
 - Zhang J, Xie Y, Huang J, et al. Design and simulation of reference voltage sources circuit in lasers [J]. Microwave and Optical Technology Letters. (Supervisor as first author)
 - J. Zhang, Y. Xie, M. Yuan, M. Li. A Self-adjusting Parametric Model for Attenuation Characteristics of WUSN Signal. (Under Review, Supervisor as first author)
 - F. Zhao, J. Zhang, N. Zhang, Z. Tan, Y. Xie, S. Zhang, Z. Han, M. Li. (2022). DETECTION OF CUCURBITS'FRUITS BASED ON DEEP LEARNING. INMATEH-Agricultural Engineering, 66(1).
-- 张佳薇,谈志强,李明宝,彭博,谢永浩,郑岳涵. 气体流量对石英增强型光声光谱检测精度的影响[J].科学技术与工程,2022,22(03):1048-1053.
-- 张佳薇,牟大伟,黄建平,莫冲,谢永浩,潘东琦. 一种便于拆装的加速度计壳体[P]. 黑龙江省：CN214503663U,2021-10-26.
- 
